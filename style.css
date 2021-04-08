@@ -1,0 +1,12 @@
+body {background-color: rgb(29, 27, 27);}
+h1 {
+    font-family: Merriweather; 
+    color: rebeccapurple;
+    }
+
+    @import url(https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap);
+p {
+    font-family: Playfair;
+    font-weight: 400;
+    color: whitesmoke;
+}
