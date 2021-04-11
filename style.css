@@ -1,15 +1,25 @@
-body {background-color: rgb(29, 27, 27);
-
-}
-h1 {
+body  {
+    background-image: url("https://images.hdqwalls.com/download/blade-runner-2049-art-hd-02-2880x1800.jpg");
+    background-color: #cccccc;
+  }
+h1,h2 {
     text-align: center;
     font-family: Merriweather; 
-    color: rebeccapurple;
+    color: black;
     }
-
+img {
+    position: relative;
+    border-style: inset;
+    border-width: 6px;
+}
     @import url(https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap);
-p {
+p, ol {
     font-family: Playfair;
     font-weight: 400;
+    font-size: large;
+    color: whitesmoke;
+}
+
+a {
     color: whitesmoke;
 }
